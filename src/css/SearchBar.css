@@ -1,0 +1,13 @@
+.search-container{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color: rgb(199, 198, 198);
+    margin-bottom: 5em;
+    /* border-radius: 1.5em; */
+}
+
+.search-container-div{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
